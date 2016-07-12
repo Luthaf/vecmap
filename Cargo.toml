@@ -1,0 +1,5 @@
+[package]
+name = "vecmap"
+version = "0.0.1"
+authors = ["Luthaf <luthaf@luthaf.fr>"]
+description = "A map backed by a vector, usable for all kinds of keys (not only integers)"
